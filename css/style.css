@@ -79,7 +79,7 @@ section div p1{
 
 .linea{
     color: #FFD84C;
-    max-width: 250px;
+    max-width: 300px;
     margin: 2px 100px; 
     padding: 0;  
     
@@ -244,18 +244,18 @@ footer nav ul{
         margin-left: 5%;
     }
     section.card div p{
-        padding-left: 20%;
+        padding-left: 30%;
       
         
                 
     }
     section.card2 div p{
-        padding-left: 20%;
+        padding-left: 30%;
        
     
     }
     section.card3 div p{
-        padding-left: 20%;
+        padding-left: 30%;
        
     
     }

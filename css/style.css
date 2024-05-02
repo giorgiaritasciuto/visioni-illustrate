@@ -79,7 +79,7 @@ section div p1{
 
 .linea{
     color: #FFD84C;
-    max-width: 300px;
+    max-width: 250px;
     margin: 2px 100px; 
     padding: 0;  
     
@@ -103,7 +103,7 @@ section.card{
 }
 
  section.card div p{
-    margin-left: 22%;
+    margin-left: 26%;
     margin-top: 4%;
     width: 100%;
     padding-left: 10%;
@@ -122,7 +122,7 @@ section.card{
 }
 
  section.card2 div p{
-    margin-left: 22%;
+    margin-left: 26%;
     margin-top: 4%;
     width: 100%;
     padding-left: 10%;
@@ -140,7 +140,7 @@ section.card{
 }
 
  section.card3 div p{
-    margin-left: 22%;
+    margin-left: 26%;
     margin-top: 4%;
     width: 100%;
     padding-left: 10%;
@@ -223,11 +223,13 @@ footer nav ul{
     display: grid;
     width: 65%;
     margin: 8%;
+    
     }
     .linea p{
     text-align: left;
     padding-left: 60px;
     padding-bottom: 2px;
+    
     }
   
 

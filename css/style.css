@@ -79,15 +79,17 @@ section div p1{
 
 .linea{
     color: #FFD84C;
-    max-width: 900px;
+    max-width: 250px;
     margin: 2px 100px; 
     padding: 0;  
+    
    
 }
 .linea p{
     padding-left: 7%;
     margin: 0;
     padding-top: 10px;
+  
 }
 
 section.card{
@@ -96,7 +98,8 @@ section.card{
     max-width: 900px;
     margin: 48px 100px;
     gap: 16px;
-    padding-left: 1%;
+   padding-right: 10%;
+   
 }
 
  section.card div p{
@@ -114,7 +117,8 @@ section.card{
     max-width: 900px;
     margin: 48px 100px;
     gap: 16px;
-    padding-left: 1%;
+    padding-right: 10%;
+   
 }
 
  section.card2 div p{
@@ -132,7 +136,7 @@ section.card{
     max-width: 900px;
     margin: 48px 100px;
     gap: 16px;
-    padding-left: 1%;
+    padding-right: 10%;
 }
 
  section.card3 div p{
@@ -270,7 +274,10 @@ footer nav ul{
     footer nav ul{
         padding-right: 0%;
         padding-top: 5%;
-        
+        padding-right: 40px;
+       
+    
+        }
         
  }
  footer p{
@@ -281,4 +288,4 @@ footer nav ul{
         
  }
 
-   }
+   

@@ -43,7 +43,7 @@ header nav ul{
     display: flex;
     list-style-type: none;
     gap: 50px;
-    padding-right: 150px;
+    padding-right: 60px;
    
 }
 .container{
@@ -147,99 +147,3 @@ footer nav ul{
    
 }
 
-@media (max-width:600px){
-    header{
-        padding-left: 2px;
-
-    }
-    header p{
-        width: 0%;
-        padding-left: 0%;
-    }
-    header nav ul{
-        
-       
-        display: flex;
-        width: 1000%;
-        padding-left: 10%;
-        padding-top: 1px;
-        
-    }
-   
-    
-    
-   
-    
-    .linea{
-    display: grid;
-    width: 80%;
-    margin: 8%;
-    }
-    .linea p{
-    text-align: left;
-    padding-left: 4px;
-    padding-bottom: 2px;
-    }
-  
-.info{
-    display: grid;
-.img{
-    max-width: 300px;
-    margin-left: -100%;
-    padding-top: 0px;
-   
-}
-.testo{
-    max-width: 300px ;
-    margin-left: -90%;
-    margin-top: 10%;
-   
-   
-}
-
-}
-    
-}
-
-.container{
-   
- display: grid;
-    
-
-}
-.container .text{
-    max-width: 300px;
-    margin-left: -100%;
-
-}
- .image{
-    max-width: 300px ;
-    margin-left: -110%;
-    margin-top: 20%;
-    
-}
-   
-    
-    
-
-    footer{
-        padding-left: 35px;
-        display: flex;
-        padding-top: 10%;
-        width: 100%;
-        padding-left: 4%;
-    
-    
-    }
-    footer nav ul{
-        padding-top: 5%;
-        width: 100%;
-        
- }
- footer p{
-   font-size: 15px;
- 
-   
-
-        
- }

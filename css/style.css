@@ -43,7 +43,7 @@ header nav ul{
     display: flex;
     list-style-type: none;
     gap: 50px;
-    padding-right: 150px;
+    padding-right: 60px;
    
 }
 
@@ -200,7 +200,7 @@ footer nav ul{
         
    
         display: flex;
-        padding-left: 25%;
+        padding-left: 14%;
         padding-top: 1px;
         
     }
@@ -219,7 +219,7 @@ footer nav ul{
     }
     .linea{
     display: grid;
-    width: 65%;
+    width: 55%;
     margin: 8%;
     }
     .linea p{
@@ -242,18 +242,18 @@ footer nav ul{
         margin-left: 5%;
     }
     section.card div p{
-        padding-left: 20%;
+        padding-left: 30%;
       
         
                 
     }
     section.card2 div p{
-        padding-left: 20%;
+        padding-left: 30%;
        
     
     }
     section.card3 div p{
-        padding-left: 20%;
+        padding-left: 30%;
        
     
     }

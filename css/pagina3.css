@@ -43,7 +43,7 @@ header nav ul{
     display: flex;
     list-style-type: none;
     gap: 50px;
-    padding-right: 150px;
+    padding-right: 60px;
    
 }
 .linea{
@@ -132,75 +132,49 @@ footer nav ul{
     }
     header nav ul{
         
-       
+   
         display: flex;
-        width: 1000%;
-        padding-left: 10%;
+        padding-left: 0px;
+        padding-left: 12%;
         padding-top: 1px;
-        
+        padding-right: 60px;
     }
-   
-    .testo2{
-        padding-left: 19%;
-        width: 300px;
-    
-    }
-    }
+
+
     .linea{
-    display: grid;
-    width: 80%;
-    margin: 8%;
-    }
-    .linea p{
-    text-align: left;
-    padding-left: 4px;
-    padding-bottom: 2px;
-    }
-  
+        display: grid;
+        width: 75%;
+        margin: 8%;
+        }
+        .linea p{
+        text-align: left;
+        padding-left: 4px;
+        padding-bottom: 2px;
+        }
 
+    .testo2{
+        width: 300px;
+        padding-left: 16%;
+    }
     section.card{
-        grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
-        margin-left: 25%;
+        grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+        margin-left: 23%;
     }
-    section.card2{
-        grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
-        margin-left: 25%;
-    }
-    section.card3{
-        grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
-        margin-left: 25%;
-    }
-    section.card div p{
-        padding-left: 0%;
-        width: 400%;
-                
-    }
-    section.card2 div p{
-        padding-left: 0%;
-        width: 100%;
-    
-    }
-    section.card3 div p{
-        padding-left: 0%;
-        width: 100%;
-    
-    }
-   
-    
-    
-
     footer{
         padding-left: 35px;
         display: flex;
         padding-top: 10%;
-        width: 100%;
         padding-left: 4%;
     
     
     }
     footer nav ul{
+        padding-right: 0%;
         padding-top: 5%;
-        width: 100%;
+        padding-right: 25px;
+       
+    
+        }
         
  }
  footer p{
@@ -209,6 +183,5 @@ footer nav ul{
    
 
         
- }
-
+   }
    

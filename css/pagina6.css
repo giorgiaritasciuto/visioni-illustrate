@@ -173,7 +173,8 @@ footer nav ul{
 
  .image{
     width: 300px;
-    margin-left: -40%;
+    margin-left: -50%;
+    margin-top: -20%;
    
 }
 section .container{
@@ -184,15 +185,26 @@ section .container{
 }
 .info .testo{
     width: 300px;
-    margin-left: -40%;
+    margin-left: -45%;
 }
 .container .testo2 {
     width: 300px;
-    margin-left: -40%;
+    margin-left: -45%;
 }
+.linea{
+    display: grid;
+    width: 75%;
+    margin: 8%;
+    }
+    .linea p{
+    text-align: left;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    }
 .img{
     width: 300px;
-    margin-left: -40%;
+    margin-left: -50%;
+    margin-top: -20%;
 }
 
     

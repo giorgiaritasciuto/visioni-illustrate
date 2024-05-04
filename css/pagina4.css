@@ -160,19 +160,19 @@ footer nav ul{
 
     .testo2{
         width: 300px;
-        padding-left: 16%;
+        padding-left: 10%;
     }
     section.card{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 23%;
+        margin-left: 30%;
     }
     section.card2{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 23%;
+        margin-left: 30%;
     }
     section.card3{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 23%;
+        margin-left: 30%;
     }
     footer{
         padding-left: 35px;

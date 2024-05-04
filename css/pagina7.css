@@ -55,7 +55,7 @@ header nav ul{
     padding-bottom: 10px;
 
 }
-.container .text{
+.container .testo2{
     width: 500%;
    margin-left: 20px;
    padding-top: 2%;
@@ -68,7 +68,7 @@ header nav ul{
     padding-left: 1%;
 }
 
-.text strong{
+.testo2 strong{
     color: #FFD84C;
 }
 .linea{
@@ -147,3 +147,85 @@ footer nav ul{
    
 }
 
+@media (max-width:600px){
+    header{
+        padding-left: 2px;
+
+    }
+    header p{
+        width: 0%;
+        padding-left: 0%;
+    }
+    header nav ul{
+        
+   
+        display: flex;
+        padding-left: 0px;
+        padding-left: 12%;
+        padding-top: 1px;
+        padding-right: 60px;
+    }
+
+
+    .linea{
+        display: grid;
+        width: 75%;
+        margin: 8%;
+        }
+        .linea p{
+        text-align: left;
+        padding-left: 4px;
+        padding-bottom: 2px;
+        }
+
+ .image{
+    width: 300px;
+    margin-left: -42%;
+    padding-top: 10%;
+   
+}
+section .container{
+    display: grid;
+}
+.info{
+    display: grid;
+}
+.info .testo{
+    width: 300px;
+    margin-left: -40%;
+}
+.container .testo2 {
+    width: 300px;
+    margin-left: -40%;
+    
+}
+.img{
+    width: 300px;
+    margin-left: -40%;
+}
+
+    
+    footer{
+        padding-left: 35px;
+        display: flex;
+        padding-top: 10%;
+        padding-left: 4%;
+    
+    
+    }
+    footer nav ul{
+        padding-right: 0%;
+        padding-top: 5%;
+        padding-right: 25px;
+       
+    
+        }
+        
+ }
+ footer p{
+   font-size: 15px;
+ 
+   
+
+        
+   }

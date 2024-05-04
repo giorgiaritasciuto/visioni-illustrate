@@ -156,15 +156,15 @@ footer nav ul{
     }
     section.card{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 26%;
+        margin-left: 16%;
     }
     section.card2{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 26%;
+        margin-left: 16%;
     }
     section.card3{
         grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-        margin-left: 26%;
+        margin-left: 16%;
     }
     footer{
         padding-left: 35px;

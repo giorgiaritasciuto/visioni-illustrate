@@ -47,6 +47,7 @@ header nav ul{
    
 }
 
+
 img{
     margin-left: 63px;
  }
@@ -190,21 +191,24 @@ footer nav ul{
 @media (max-width:600px){
     header{
         padding-left: 2px;
-
+       
     }
     header p{
         width: 0%;
         padding-left: 0%;
+       
     }
     header nav ul{
         
-   
+    
         display: flex;
         padding-left: 14%;
         padding-top: 1px;
         
     }
+
    
+  
     
     .contenitore{
         display: grid;
@@ -273,7 +277,7 @@ footer nav ul{
         padding-right: 0%;
         padding-top: 5%;
         padding-right: 30px;
-       
+      
     
         }
         
@@ -286,4 +290,4 @@ footer nav ul{
         
  }
 
-   
+ 

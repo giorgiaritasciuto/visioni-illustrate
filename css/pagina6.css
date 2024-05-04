@@ -151,7 +151,7 @@ footer nav ul{
     }
     header nav ul{
         
-   
+    
         display: flex;
         padding-left: 0px;
         padding-left: 12%;
@@ -193,7 +193,7 @@ section .container{
 }
 .linea{
     display: grid;
-    width: 75%;
+    width: 70%;
     margin: 8%;
     }
     .linea p{
